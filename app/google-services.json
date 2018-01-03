@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986869172863",
+    "firebase_url": "https://tickle-16cac.firebaseio.com",
+    "project_id": "tickle-16cac",
+    "storage_bucket": "tickle-16cac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986869172863:android:a884f4c3d1b94bbd",
+        "android_client_info": {
+          "package_name": "com.oz.pkj.tickle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986869172863-rv2bcn0gn4g27cf2crk3iuopftk36gih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oz.pkj.tickle",
+            "certificate_hash": "b6385e577e1dd15e703e903bdb034be4b416ad7b"
+          }
+        },
+        {
+          "client_id": "986869172863-ihcu15p8hn6bd4b2gjvjiq7mu662n0pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEIkeFzJl9Je7iXIwtR18QLQDtlA9WE6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986869172863-ihcu15p8hn6bd4b2gjvjiq7mu662n0pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
