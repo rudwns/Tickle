@@ -30,7 +30,7 @@ import com.google.android.gms.common.api.Status;
 
 public class loginActivity extends AppCompatActivity implements  OnConnectionFailedListener,  OnClickListener {
 
-    private static final String TAG = "MainActivity";
+    private static final String TAG = "SpendActivity";
     private static final int RC_SIGN_IN = 9001;
     private GoogleApiClient mGoogleApiClient;
     private TextView mStatusTextView;
